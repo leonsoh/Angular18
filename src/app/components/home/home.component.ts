@@ -10,11 +10,12 @@ import { MenuItem } from 'primeng/api';
   styleUrl: './home.component.css'
 })
 export class HomeComponent implements OnInit {
+
   items: MenuItem[] | undefined;
     ngOnInit(): void {
       this.items = [
-        {label: 'Create Rules'},
-        {label: 'Edit Rules'}
+        {label: 'Create Rules', routerLink: ['/create-rules']},
+        {label: 'Edit Rules', routerLink: ['/edit-rules']}
       ]
     }
 }
