@@ -1,6 +1,28 @@
 <p-dropdown 
-    [options]="items"
-    [(ngModel)]="selectedItem" 
-    placeholder="Select a rule" 
-    optionLabel="title">
+    [options]="rules"
+    [(ngModel)]="selectedRule" 
+    placeholder="Select first rule" 
+    optionLabel="label"
+    optionValue="value"
+    >
 </p-dropdown> 
+
+<p-dropdown 
+    [options]="rules"
+    [(ngModel)]="selectedRule" 
+    placeholder="Select second rule" 
+    optionLabel="label"
+    optionValue="value"
+    >
+</p-dropdown> 
+
+<p-dropdown 
+    [options]="rules"
+    [(ngModel)]="selectedRule" 
+    placeholder="Select third rule" 
+    optionLabel="label"
+    optionValue="value"
+    >
+</p-dropdown> 
+
+<p>User can select multiple rules and make it as one rule</p>
