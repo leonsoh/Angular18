@@ -13,18 +13,15 @@ PrimeNG
 Follow this guide to setup PrimeNG: https://primeng.org/installation
 
 
-## Build
+## About Me
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This is my first time trying out Angular/PrimeNG UI. My prior experience is in the native mobile realm (iOS dev) and it was a good experience working on web development.
 
-## Running unit tests
+Functional programming is great for reusable components and isolating functions for unit tests. This has taught me a new way to construct codes instead of Object-oriented programming.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+I strongly believe in Reactive programming as well, using Observables or Event-driven programming which helps in real-time data processing to accurately reflect data on the dashboard.
 
-## Running end-to-end tests
+Building this mini project has taught me on some of the nuances in Frontend development like multiple frameworks and libraries to use. Which I encountered a lot during the project, npm install with the latest version of Angular, resulted in some dependencies incompatibility.
+Debugging on errors that are happening on the UI due to missing modules or modules not linked properly are also an eye-catching experience.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+I am passionate in software engineering in general and this  opportunity serves as a great experience even though it might not be as complete as it seems.
