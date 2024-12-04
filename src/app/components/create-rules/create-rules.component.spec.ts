@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { CreateRulesComponent } from './create-rules.component';
 
 describe('CreateRulesComponent', () => {
