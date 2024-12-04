@@ -2,15 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
 ## Dependencies
 
 PrimeNG
 
 Follow this guide to setup PrimeNG: https://primeng.org/installation
+
+## Setup
+
+Either clone or download the zip, go to the project folder in your terminal command and run `npm install`, followed by `ng serve -o` to open up the localhost.
+
 
 
 ## About Me
@@ -24,4 +25,6 @@ I strongly believe in Reactive programming as well, using Observables or Event-d
 Building this mini project has taught me on some of the nuances in Frontend development like multiple frameworks and libraries to use. Which I encountered a lot during the project, npm install with the latest version of Angular, resulted in some dependencies incompatibility.
 Debugging on errors that are happening on the UI due to missing modules or modules not linked properly are also an eye-catching experience.
 
-I am passionate in software engineering in general and this  opportunity serves as a great experience even though it might not be as complete as it seems.
+I am passionate in software engineering in general and this opportunity serves as a great experience even though the project might not be as complete as it seems. I had provided comments on what to do, just that my current limitation on Angular knowledge had posed some difficulties in completing it.
+
+If you have read until here, thank you for your time, cheers! :]
